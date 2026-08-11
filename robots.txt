@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-pwu4hl.privatetalks.online/sitemap.xml
